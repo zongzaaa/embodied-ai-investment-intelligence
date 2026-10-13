@@ -35,7 +35,7 @@ Vanilla JavaScript, semantic HTML, CSS and native SVG charts. No runtime librari
 
 ## Demo and local use
 
-Planned live demo, **publication and anonymous-access verification pending**:
+Live demo — **anonymous access and interactive functionality verified on 13 October 2026**:
 
 https://zongzaaa.github.io/embodied-ai-investment-intelligence/
 
@@ -43,6 +43,6 @@ To run locally, open `index.html` directly in a modern browser. For a local HTTP
 
 ## Limitations
 
-Investee proxies, valuations, revenue projections, probabilities, financing terms and default scenarios are illustrative analyst assumptions. Primary sector evidence frames the opportunity; it does not independently calibrate investment returns. Evidence flags are self-reported. No actual fund, investee transaction, audited forecast or commercial financial certification is represented. This prototype is not investment advice. Illiquidity, failed exits and total loss remain possible; tax, carry and interim distributions are outside the model.
+Investee proxies, valuations, revenue projections, probabilities, financing terms and default scenarios are illustrative analyst assumptions. Primary sector evidence frames the opportunity; it does not independently calibrate investment returns. Evidence flags are self-reported. No actual fund, investee transaction, audited forecast or commercial financial certification is represented. This project does not represent independently verified investment recommendations. This prototype is not investment advice. Illiquidity, failed exits and total loss remain possible; tax, carry and interim distributions are outside the model.
 
 No licence has been added; licence selection remains with the project owner.
